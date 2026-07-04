@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Learning+Systems,+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Learning+Systems,+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <br/>
 
