@@ -17,8 +17,8 @@
 
 > **"Passionate about algorithms, problem-solving, and building impactful systems."** 🚀
 
-* 🎓 Computer Science Undergraduate at **[Your University]**
-* 🌱 Currently learning **DSA, System Design, and Cybersecurity**
+* 🎓 Computer Science Undergraduate at **Bangladesh University of Engineering & Technology**
+* 🌱 Currently learning **DSA, DBMS, and Object Oriented Programming**
 * 🧩 Practicing Competitive Programming on Codeforces & LeetCode
 * ✨ Building beginner-friendly open-source projects
 
