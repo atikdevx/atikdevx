@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Learning+Systems,+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-<br/>
+<br><br>
 
 <a href="mailto:atik.khan3477@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.facebook.com/share/1E8f7zRVa3/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -38,9 +38,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atikdevx&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
+  <br><br>
   <img src="https://streak-stats.demolab.com/?user=atikdevx&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -52,9 +50,7 @@
   <a href="https://codeforces.com/profile/Atik_Khan">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Atik_Khan&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
   </a>
-
-  <br/><br/>
-  
+  <br><br>
   <a href="https://leetcode.com/u/Atik_Khan/">
     <img src="https://leetcard.jacoblin.cool/Atik_Khan?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
   </a>
