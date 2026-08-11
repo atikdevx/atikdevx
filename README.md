@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Learning+Systems,+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Atik+Khan!+👋;Learning+Systems%2C+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <br><br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atik.khan3477@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1E8f7zRVa3/?mibextid=wwXIfr)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Atik_Khan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Atik_Khan/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Atik_Khan)
 
 </div>
 
@@ -17,9 +17,9 @@
 
 > **"Passionate about algorithms, problem-solving, and building impactful systems."** 🚀
 
-* 🎓 Computer Science Undergraduate at **Bangladesh University of Engineering & Technology**
-* 🌱 Currently learning **DSA, DBMS, and Object Oriented Programming**
-* 🧩 Practicing Competitive Programming on Codeforces & LeetCode
+* 🎓 Computer Science Undergraduate at **Bangladesh University of Engineering & Technology (BUET)**
+* 🌱 Currently learning **DSA, DBMS, and Object-Oriented Programming**
+* 🧩 Practicing Competitive Programming on LeetCode & Codeforces
 * ✨ Building beginner-friendly open-source projects
 
 ---
@@ -30,6 +30,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,git,github,vscode,linux&theme=dark" alt="My Skills" />
   </a>
+</div>
+
+---
+
+### 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikdevx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -47,12 +55,12 @@
 ### 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://codeforces.com/profile/Atik_Khan">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Atik_Khan&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
-  </a>
-  <br><br>
   <a href="https://leetcode.com/u/Atik_Khan/">
     <img src="https://leetcard.jacoblin.cool/Atik_Khan?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  </a>
+  <br><br>
+  <a href="https://codeforces.com/profile/Atik_Khan">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Atik_Khan&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
   </a>
 </div>
 
