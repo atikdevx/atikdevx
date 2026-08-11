@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Atik+Khan!+👋;Learning+Systems%2C+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi,+I+am+Atik+Khan;Learning+Systems,+Security+%26+Development;Crafting+Code+and+Solving+Problems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -17,10 +17,10 @@
 
 > **"Passionate about algorithms, problem-solving, and building impactful systems."** 🚀
 
-* 🎓 Computer Science Undergraduate at **Bangladesh University of Engineering & Technology (BUET)**
-* 🌱 Currently learning **DSA, DBMS, and Object-Oriented Programming**
-* 🧩 Practicing Competitive Programming on LeetCode & Codeforces
-* ✨ Building beginner-friendly open-source projects
+- 🎓 Computer Science Undergraduate at **Bangladesh University of Engineering & Technology**
+- 🌱 Currently learning **DSA, DBMS, and Object Oriented Programming**
+- 🧩 Practicing Competitive Programming on LeetCode & Codeforces
+- ✨ Building beginner-friendly open-source projects
 
 ---
 
@@ -34,10 +34,16 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Languages Across My GitHub Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikdevx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atikdevx&theme=radical" alt="Languages by Repository" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atikdevx&theme=radical" alt="Languages by Commits" />
+
 </div>
 
 ---
@@ -45,9 +51,13 @@
 ### ⚡ GitHub Stats & Streaks
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikdevx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=atikdevx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikdevx&theme=radical" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=atikdevx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
@@ -55,13 +65,17 @@
 ### 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/Atik_Khan/">
-    <img src="https://leetcard.jacoblin.cool/Atik_Khan?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-  </a>
-  <br><br>
-  <a href="https://codeforces.com/profile/Atik_Khan">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Atik_Khan&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
-  </a>
+
+<a href="https://leetcode.com/u/Atik_Khan/">
+  <img src="https://leetcard.jacoblin.cool/Atik_Khan?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+</a>
+
+<br><br>
+
+<a href="https://codeforces.com/profile/Atik_Khan">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Atik_Khan&theme=radical&hide_border=true&bg_color=0D1117" alt="Codeforces Stats" />
+</a>
+
 </div>
 
 ---
@@ -69,5 +83,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/atikdevx/atikdevx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/atikdevx/atikdevx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
