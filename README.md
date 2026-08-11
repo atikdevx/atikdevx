@@ -34,15 +34,11 @@
 
 ---
 
-### 📊 Languages Across My GitHub Repositories
+### 📊 Languages Used Across My GitHub Repositories
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atikdevx&theme=radical" alt="Languages by Repository" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atikdevx&theme=radical" alt="Languages by Commits" />
+<img src="./profile/languages.svg" alt="Most Used Languages" />
 
 </div>
 
@@ -52,11 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atikdevx&theme=radical" alt="GitHub Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=atikdevx&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
 
